@@ -1,0 +1,34 @@
+.container{
+	text-align: center;
+	margin-top: 30px;
+}
+table{
+	margin: auto;
+}
+input {
+    font-size: 31px;
+    width: auto;
+    border: 4px solid slateblue;
+    border-radius: 21px;
+}
+button {
+    font-size: 30px;
+    background: linear-gradient(43deg,red , transparent);
+    width: 95px;
+    height: 61px;
+    border-radius: 39px;
+    border-width: medium;
+    border-right-color: darkred;
+    border-left-color: darkred;
+    border-bottom-color: currentColor;
+    border-top-color: darkred;
+}
+.Calculator
+{
+    display: inline-block;
+    background-color: #ffbfbf;
+    padding: 23px;
+    border-radius: 59px;
+    border: 4px solid darkred;
+}
+
